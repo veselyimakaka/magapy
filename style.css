@@ -2,3 +2,20 @@ h1{
     color: brown;
 }
 
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.product{
+    display: block;
+    border: 10px solid;
+    text-align: center;
+    
+}
